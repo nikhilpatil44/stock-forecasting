@@ -1,7 +1,5 @@
 # Stock Price Prediction Using FbProphet Library
 
-A brief description of what this project does and who it's for
-
 
 ## Installation
 
